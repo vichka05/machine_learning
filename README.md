@@ -2,7 +2,7 @@
   ## Deep Learning
   ### Object Detection
     Задача: Реализация архитектуры для детекции объектов (игральных карт) на изображениях.
-    Детали: Написание архитектуры с нуля, использование аугментаций (Albumentations), применение предобученных моделей (ResNet50).
+    Детали: Написание архитектуры с нуля, использование аугментаций, применение предобученных моделей (ResNet50).
     Библиотеки: PyTorch, Albumentations, Torchvision.
   
   ### Face Verification & Siamese Networks (networks_and_images)
